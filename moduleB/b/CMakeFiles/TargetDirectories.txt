@@ -1,0 +1,3 @@
+/home/user/Bureau/cmakeTests/moduleB/b/CMakeFiles/moduleB_project.dir
+/home/user/Bureau/cmakeTests/moduleB/b/CMakeFiles/edit_cache.dir
+/home/user/Bureau/cmakeTests/moduleB/b/CMakeFiles/rebuild_cache.dir

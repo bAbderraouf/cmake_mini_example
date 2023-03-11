@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/exe.dir/main.cpp.o CMakeFiles/exe.dir/moduleB/b.cpp.o -o exe  moduleA/libmoduleA_lib.a 
