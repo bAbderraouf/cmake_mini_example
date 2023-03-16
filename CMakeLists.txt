@@ -20,4 +20,6 @@ target_link_libraries(exe PUBLIC  moduleA_lib)
 # for generating graph dependencies use this cmd :
 # cmake .. --graphviz=graph.dot && dot -Tpng graph.dot -o graphImageName.png
 
+# for setting the c++ version for a library 
+# target_compile_features(myLibrary PUBLIC cxx_std_20)
 
