@@ -15,5 +15,9 @@ target_include_directories( exe PUBLIC moduleB/include/ moduleA/include/)
 
 target_link_libraries(exe PUBLIC  moduleA_lib)
     # if libraries link is not done it could cause 'indefined reference to ..'
+    
+    
+# for generating graph dependencies use this cmd :
+# cmake .. --graphviz=graph.dot && dot -Tpng graph.dot -o graphImageName.png
 
 
